@@ -17,6 +17,7 @@ lancer le seed
     ```
     rails db:seed
     ```
+J'ai rajouté la gem time_print si tu veux voir des beaux tableaux et la gem faker pour générer le seed plus facilement
 
 Vous avez des users, des villes, des gossips, des tags et des messages privés. Je me suis arrétée là !
 
