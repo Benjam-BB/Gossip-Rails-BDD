@@ -1,24 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Voici le readme du projet 2 : Petbnb
 
-Things you may want to cover:
+Petbnb est une application rails.
 
-* Ruby version
+__step 1__
 
-* System dependencies
+faites le 
+    ```
+    bundle install
+    ```
 
-* Configuration
+__step 2__
 
-* Database creation
+lancer le seed 
+    ```
+    rails db:seed
+    ```
 
-* Database initialization
+Vous avez des users, des villes, des gossips, des tags et des messages privés. Je me suis arrétée là !
 
-* How to run the test suite
+difficulté : un private messages, contient l'expéditeur sous forme de user_id et un content; 
+Le Joinpmreceiver mettent en lien les receveurs (user_id) et le private message (private_message_id); donc un PM peut etre envoyé à plusieurs personnes par un expéditeurs
 
-* Services (job queues, cache servers, search engines, etc.)
+__step 3__
 
-* Deployment instructions
+Amusez vous bien
 
-* ...
