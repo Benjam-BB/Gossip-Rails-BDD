@@ -1,8 +1,8 @@
 # README
 
-## Voici le readme du projet 2 : Petbnb
+## Voici le readme du projet 3 : Gossip
 
-Petbnb est une application rails.
+Gossip est une application rails.
 
 __step 1__
 
